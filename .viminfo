@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
-:wq!
-|2,0,1725287546,,"wq!"
 :q!
-|2,0,1725286290,,"q!"
+|2,0,1725292046,,"q!"
+:wq!
+|2,0,1725292017,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -27,230 +27,445 @@
 # Registers:
 
 # File marks:
-'0  8  0  ~/web_server/Dockerfile
-|4,48,8,0,1725287546,"~/web_server/Dockerfile"
-'1  8  0  ~/result_server/Dockerfile
-|4,49,8,0,1725287511,"~/result_server/Dockerfile"
-'2  123  19  ~/.bashrc
-|4,50,123,19,1725286290,"~/.bashrc"
-'3  123  19  ~/.bashrc
-|4,51,123,19,1725286274,"~/.bashrc"
-'4  8  0  ~/web_server/requirements.txt
-|4,52,8,0,1725285514,"~/web_server/requirements.txt"
-'5  148  0  ~/web_server/app.py
-|4,53,148,0,1725285497,"~/web_server/app.py"
-'6  90  0  ~/web_server/templates/add-update.html
-|4,54,90,0,1725285478,"~/web_server/templates/add-update.html"
-'7  87  6  ~/web_server/templates/delete.html
-|4,55,87,6,1725285461,"~/web_server/templates/delete.html"
-'8  87  6  ~/web_server/templates/index.html
-|4,56,87,6,1725285444,"~/web_server/templates/index.html"
-'9  90  0  ~/result_server/templates/index.html
-|4,57,90,0,1725285377,"~/result_server/templates/index.html"
+'0  51  0  ~/result_server/app.py
+|4,48,51,0,1725292046,"~/result_server/app.py"
+'1  9  15  ~/helm_charts/templates/web_server_service.yml
+|4,49,9,15,1725292017,"~/helm_charts/templates/web_server_service.yml"
+'2  18  28  ~/helm_charts/templates/web_server_deployment.yml
+|4,50,18,28,1725291986,"~/helm_charts/templates/web_server_deployment.yml"
+'3  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,51,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+'4  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,52,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+'5  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,53,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+'6  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,54,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
+'7  13  20  ~/helm_charts/templates/mysql_service.yml
+|4,55,13,20,1725291784,"~/helm_charts/templates/mysql_service.yml"
+'8  7  26  ~/helm_charts/templates/mysql_secrets.yml
+|4,56,7,26,1725291765,"~/helm_charts/templates/mysql_secrets.yml"
+'9  11  18  ~/helm_charts/templates/mysql_persistent_volume_claim.yml
+|4,57,11,18,1725291724,"~/helm_charts/templates/mysql_persistent_volume_claim.yml"
 
 # Jumplist (newest first):
--'  8  0  ~/web_server/Dockerfile
-|4,39,8,0,1725287546,"~/web_server/Dockerfile"
--'  1  0  ~/web_server/Dockerfile
-|4,39,1,0,1725287539,"~/web_server/Dockerfile"
--'  8  0  ~/result_server/Dockerfile
-|4,39,8,0,1725287511,"~/result_server/Dockerfile"
--'  8  0  ~/result_server/Dockerfile
-|4,39,8,0,1725287511,"~/result_server/Dockerfile"
--'  1  0  ~/result_server/Dockerfile
-|4,39,1,0,1725287504,"~/result_server/Dockerfile"
--'  1  0  ~/result_server/Dockerfile
-|4,39,1,0,1725287504,"~/result_server/Dockerfile"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286290,"~/.bashrc"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286290,"~/.bashrc"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286290,"~/.bashrc"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286290,"~/.bashrc"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286274,"~/.bashrc"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286274,"~/.bashrc"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286274,"~/.bashrc"
--'  123  19  ~/.bashrc
-|4,39,123,19,1725286274,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1725286252,"~/.bashrc"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  8  0  ~/web_server/requirements.txt
-|4,39,8,0,1725285514,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  1  0  ~/web_server/requirements.txt
-|4,39,1,0,1725285502,"~/web_server/requirements.txt"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  148  0  ~/web_server/app.py
-|4,39,148,0,1725285497,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
--'  1  0  ~/web_server/app.py
-|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  51  0  ~/result_server/app.py
+|4,39,51,0,1725292046,"~/result_server/app.py"
+-'  9  15  ~/helm_charts/templates/web_server_service.yml
+|4,39,9,15,1725292017,"~/helm_charts/templates/web_server_service.yml"
+-'  9  15  ~/helm_charts/templates/web_server_service.yml
+|4,39,9,15,1725292017,"~/helm_charts/templates/web_server_service.yml"
+-'  1  0  ~/helm_charts/templates/web_server_service.yml
+|4,39,1,0,1725292003,"~/helm_charts/templates/web_server_service.yml"
+-'  1  0  ~/helm_charts/templates/web_server_service.yml
+|4,39,1,0,1725292003,"~/helm_charts/templates/web_server_service.yml"
+-'  18  28  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,18,28,1725291986,"~/helm_charts/templates/web_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,18,28,1725291986,"~/helm_charts/templates/web_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,18,28,1725291986,"~/helm_charts/templates/web_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,18,28,1725291986,"~/helm_charts/templates/web_server_deployment.yml"
+-'  1  0  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,1,0,1725291950,"~/helm_charts/templates/web_server_deployment.yml"
+-'  1  0  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,1,0,1725291950,"~/helm_charts/templates/web_server_deployment.yml"
+-'  1  0  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,1,0,1725291950,"~/helm_charts/templates/web_server_deployment.yml"
+-'  1  0  ~/helm_charts/templates/web_server_deployment.yml
+|4,39,1,0,1725291950,"~/helm_charts/templates/web_server_deployment.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  6  17  ~/helm_charts/templates/server_configmap.yml
+|4,39,6,17,1725291938,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  1  0  ~/helm_charts/templates/server_configmap.yml
+|4,39,1,0,1725291921,"~/helm_charts/templates/server_configmap.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  9  15  ~/helm_charts/templates/result_server_service.yml
+|4,39,9,15,1725291908,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  1  0  ~/helm_charts/templates/result_server_service.yml
+|4,39,1,0,1725291888,"~/helm_charts/templates/result_server_service.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291871,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
+-'  18  28  ~/helm_charts/templates/result_server_deployment.yml
+|4,39,18,28,1725291836,"~/helm_charts/templates/result_server_deployment.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/result_server/app.py
+	*	1725292044	0
+	"	51	0
+	^	51	0
+	.	50	38
+	+	50	38
+
+> ~/helm_charts/templates/web_server_service.yml
+	*	1725292015	0
+	"	9	15
+	^	9	16
+	.	9	15
+	+	15	15
+	+	11	21
+	+	9	15
+
+> ~/helm_charts/templates/web_server_deployment.yml
+	*	1725291983	0
+	"	18	28
+	^	18	29
+	.	18	28
+	+	32	22
+	+	21	32
+	+	18	28
+
+> ~/helm_charts/templates/server_configmap.yml
+	*	1725291936	0
+	"	6	17
+	^	6	18
+	.	6	17
+	+	8	35
+	+	7	21
+	+	6	17
+
+> ~/helm_charts/templates/result_server_service.yml
+	*	1725291905	0
+	"	9	15
+	^	9	16
+	.	9	15
+	+	15	15
+	+	11	21
+	+	9	15
+
+> ~/helm_charts/templates/result_server_deployment.yml
+	*	1725291869	0
+	"	18	28
+	^	18	29
+	.	18	28
+	+	38	22
+	+	21	32
+	+	18	28
+
+> ~/helm_charts/templates/mysql_service.yml
+	*	1725291782	0
+	"	13	20
+	^	13	21
+	.	13	20
+	+	13	20
+
+> ~/helm_charts/templates/mysql_secrets.yml
+	*	1725291762	0
+	"	7	26
+	^	7	27
+	.	7	26
+	+	10	19
+	+	9	32
+	+	7	26
+
+> ~/helm_charts/templates/mysql_persistent_volume_claim.yml
+	*	1725291722	0
+	"	11	18
+	^	11	19
+	.	11	18
+	+	11	18
+
+> ~/helm_charts/templates/mysql_persistent_volume_claim.yml.yml
+	*	1725291662	0
+	"	1	0
+
+> ~/helm_charts/templates/mysql_persistent_volume.yml
+	*	1725291645	0
+	"	14	20
+	^	14	21
+	.	14	20
+	+	14	20
+
+> ~/helm_charts/templates/mysql_deployment.yml
+	*	1725291617	0
+	"	52	36
+	^	52	37
+	.	52	36
+	+	52	36
+
+> ~/helm_charts/templates/mysql_configmap.yml
+	*	1725291581	0
+	"	6	17
+	^	6	18
+	.	6	17
+	+	7	21
+	+	6	17
+
+> ~/helm_charts/templates/ingress.yml
+	*	1725291555	0
+	"	25	27
+	^	25	28
+	.	25	27
+	+	25	27
+
+> ~/helm_charts/Chart.yml
+	*	1725291185	0
+	"	24	19
+	^	24	20
+	.	24	19
+	+	24	19
+
+> ~/helm_charts/values.yml
+	*	1725291168	0
+	"	82	11
+	^	82	12
+	.	82	11
+	+	82	11
+
+> ~/kubernetes/web_server/web_deploy.yml
+	*	1725291010	0
+	"	21	28
+	^	21	29
+	.	21	28
+	+	32	38
+	+	23	32
+	+	21	28
+
+> ~/kubernetes/web_server/web_service.yml
+	*	1725290925	0
+	"	10	15
+	^	10	16
+	.	10	15
+	+	26	27
+	+	24	20
+	+	14	26
+	+	11	21
+	+	10	15
+
+> ~/kubernetes/secret_configmap/servers_cm.yml
+	*	1725290866	0
+	"	8	23
+	^	8	24
+	.	8	24
+	+	8	28
+	+	7	19
+	+	8	24
+
+> ~/kubernetes/secret_configmap/secrets.yml
+	*	1725290831	0
+	"	9	34
+	^	9	35
+	.	9	34
+	+	10	21
+	+	7	33
+	+	9	34
+
+> ~/kubernetes/secret_configmap/database_cm.yml
+	*	1725290790	0
+	"	7	23
+	^	7	24
+	.	7	23
+	+	7	28
+	+	6	19
+	+	7	23
+
+> ~/kubernetes/result_server/result_service.yml
+	*	1725290543	0
+	"	10	15
+	^	10	16
+	.	10	15
+	+	14	23
+	+	11	21
+	+	10	15
+
+> ~/kubernetes/result_server/result_deploy.yml
+	*	1725290511	0
+	"	23	32
+	^	23	33
+	.	23	32
+	+	32	39
+	+	21	49
+	+	23	32
+
+> ~/kubernetes/mysql/mysql_service.yml
+	*	1725290352	0
+	"	12	18
+	^	12	19
+	.	12	18
+	+	12	18
+
+> ~/kubernetes/mysql/mysql_pvc.yml
+	*	1725290330	0
+	"	11	17
+	^	11	18
+	.	11	17
+	+	11	17
+
+> ~/kubernetes/mysql/mysql_pv.yml
+	*	1725290312	0
+	"	14	20
+	^	14	21
+	.	14	20
+	+	14	20
+
+> ~/kubernetes/mysql/mysql_deploy.yml
+	*	1725290293	0
+	"	45	36
+	^	45	37
+	.	45	36
+	+	45	36
 
 > ~/web_server/Dockerfile
 	*	1725287542	0
@@ -321,10 +536,3 @@
 	^	8	0
 	.	7	5
 	+	7	5
-
-> ~/result_server/app.py
-	*	1725285330	0
-	"	51	0
-	^	51	0
-	.	50	38
-	+	50	38

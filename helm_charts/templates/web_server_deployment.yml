@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: webserver-deploy
+  name: webserver-deploy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: webserver-deploy
+  template:
+    metadata:
+      labels:
+        app: webserver-deploy
+    spec:
+      containers:
+        - image: saikiran8050/web_server:latest
+          name: webserver
+          ports:
+            - containerPort: 5000
+          env:
+            - name: MYSQL_PASSWORD
+              # value: Devenes_1
+              valueFrom:
+                secretKeyRef:
+                  name: mysql-secret
+                  key: mysql_admin_password
+          envFrom:
+            - configMapRef:
+                name: server-config
+          resources: {}

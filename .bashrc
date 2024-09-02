@@ -115,3 +115,9 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Custom environment variables for MySQL
+export MYSQL_HOST=localhost
+export MYSQL_USER=root
+export MYSQL_PASSWORD=admin@123
+export MYSQL_DB=test

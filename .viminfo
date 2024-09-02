@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1725285514,,"wq!"
+|2,0,1725287546,,"wq!"
+:q!
+|2,0,1725286290,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,226 +27,251 @@
 # Registers:
 
 # File marks:
-'0  8  0  ~/web_server/requirements.txt
-|4,48,8,0,1725285514,"~/web_server/requirements.txt"
-'1  148  0  ~/web_server/app.py
-|4,49,148,0,1725285497,"~/web_server/app.py"
-'2  90  0  ~/web_server/templates/add-update.html
-|4,50,90,0,1725285478,"~/web_server/templates/add-update.html"
-'3  87  6  ~/web_server/templates/delete.html
-|4,51,87,6,1725285461,"~/web_server/templates/delete.html"
-'4  87  6  ~/web_server/templates/index.html
-|4,52,87,6,1725285444,"~/web_server/templates/index.html"
-'5  90  0  ~/result_server/templates/index.html
-|4,53,90,0,1725285377,"~/result_server/templates/index.html"
-'6  8  0  ~/result_server/requirements.txt
-|4,54,8,0,1725285348,"~/result_server/requirements.txt"
-'7  51  0  ~/result_server/app.py
-|4,55,51,0,1725285332,"~/result_server/app.py"
+'0  8  0  ~/web_server/Dockerfile
+|4,48,8,0,1725287546,"~/web_server/Dockerfile"
+'1  8  0  ~/result_server/Dockerfile
+|4,49,8,0,1725287511,"~/result_server/Dockerfile"
+'2  123  19  ~/.bashrc
+|4,50,123,19,1725286290,"~/.bashrc"
+'3  123  19  ~/.bashrc
+|4,51,123,19,1725286274,"~/.bashrc"
+'4  8  0  ~/web_server/requirements.txt
+|4,52,8,0,1725285514,"~/web_server/requirements.txt"
+'5  148  0  ~/web_server/app.py
+|4,53,148,0,1725285497,"~/web_server/app.py"
+'6  90  0  ~/web_server/templates/add-update.html
+|4,54,90,0,1725285478,"~/web_server/templates/add-update.html"
+'7  87  6  ~/web_server/templates/delete.html
+|4,55,87,6,1725285461,"~/web_server/templates/delete.html"
+'8  87  6  ~/web_server/templates/index.html
+|4,56,87,6,1725285444,"~/web_server/templates/index.html"
+'9  90  0  ~/result_server/templates/index.html
+|4,57,90,0,1725285377,"~/result_server/templates/index.html"
 
 # Jumplist (newest first):
+-'  8  0  ~/web_server/Dockerfile
+|4,39,8,0,1725287546,"~/web_server/Dockerfile"
+-'  1  0  ~/web_server/Dockerfile
+|4,39,1,0,1725287539,"~/web_server/Dockerfile"
+-'  8  0  ~/result_server/Dockerfile
+|4,39,8,0,1725287511,"~/result_server/Dockerfile"
+-'  8  0  ~/result_server/Dockerfile
+|4,39,8,0,1725287511,"~/result_server/Dockerfile"
+-'  1  0  ~/result_server/Dockerfile
+|4,39,1,0,1725287504,"~/result_server/Dockerfile"
+-'  1  0  ~/result_server/Dockerfile
+|4,39,1,0,1725287504,"~/result_server/Dockerfile"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286290,"~/.bashrc"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286290,"~/.bashrc"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286290,"~/.bashrc"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286290,"~/.bashrc"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286274,"~/.bashrc"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286274,"~/.bashrc"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286274,"~/.bashrc"
+-'  123  19  ~/.bashrc
+|4,39,123,19,1725286274,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
+-'  1  0  ~/.bashrc
+|4,39,1,0,1725286252,"~/.bashrc"
 -'  8  0  ~/web_server/requirements.txt
 |4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  8  0  ~/web_server/requirements.txt
+|4,39,8,0,1725285514,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
+-'  1  0  ~/web_server/requirements.txt
+|4,39,1,0,1725285502,"~/web_server/requirements.txt"
 -'  1  0  ~/web_server/requirements.txt
 |4,39,1,0,1725285502,"~/web_server/requirements.txt"
 -'  148  0  ~/web_server/app.py
 |4,39,148,0,1725285497,"~/web_server/app.py"
 -'  148  0  ~/web_server/app.py
 |4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
+-'  148  0  ~/web_server/app.py
+|4,39,148,0,1725285497,"~/web_server/app.py"
 -'  1  0  ~/web_server/app.py
 |4,39,1,0,1725285492,"~/web_server/app.py"
 -'  1  0  ~/web_server/app.py
 |4,39,1,0,1725285492,"~/web_server/app.py"
--'  90  0  ~/web_server/templates/add-update.html
-|4,39,90,0,1725285478,"~/web_server/templates/add-update.html"
--'  90  0  ~/web_server/templates/add-update.html
-|4,39,90,0,1725285478,"~/web_server/templates/add-update.html"
--'  90  0  ~/web_server/templates/add-update.html
-|4,39,90,0,1725285478,"~/web_server/templates/add-update.html"
--'  90  0  ~/web_server/templates/add-update.html
-|4,39,90,0,1725285478,"~/web_server/templates/add-update.html"
--'  1  0  ~/web_server/templates/add-update.html
-|4,39,1,0,1725285464,"~/web_server/templates/add-update.html"
--'  1  0  ~/web_server/templates/add-update.html
-|4,39,1,0,1725285464,"~/web_server/templates/add-update.html"
--'  1  0  ~/web_server/templates/add-update.html
-|4,39,1,0,1725285464,"~/web_server/templates/add-update.html"
--'  1  0  ~/web_server/templates/add-update.html
-|4,39,1,0,1725285464,"~/web_server/templates/add-update.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/delete.html
-|4,39,87,6,1725285461,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  1  0  ~/web_server/templates/delete.html
-|4,39,1,0,1725285447,"~/web_server/templates/delete.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  87  6  ~/web_server/templates/index.html
-|4,39,87,6,1725285444,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  1  0  ~/web_server/templates/index.html
-|4,39,1,0,1725285427,"~/web_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  90  0  ~/result_server/templates/index.html
-|4,39,90,0,1725285377,"~/result_server/templates/index.html"
--'  1  0  ~/result_server/templates/index.html
-|4,39,1,0,1725285373,"~/result_server/templates/index.html"
--'  1  0  ~/result_server/templates/index.html
-|4,39,1,0,1725285373,"~/result_server/templates/index.html"
--'  1  0  ~/result_server/templates/index.html
-|4,39,1,0,1725285373,"~/result_server/templates/index.html"
--'  1  0  ~/result_server/templates/index.html
-|4,39,1,0,1725285373,"~/result_server/templates/index.html"
--'  1  0  ~/result_server/templates/index.html
-|4,39,1,0,1725285373,"~/result_server/templates/index.html"
--'  1  0  ~/result_server/templates/index.html
-|4,39,1,0,1725285373,"~/result_server/templates/index.html"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
+-'  1  0  ~/web_server/app.py
+|4,39,1,0,1725285492,"~/web_server/app.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/web_server/Dockerfile
+	*	1725287542	0
+	"	8	0
+	^	8	0
+	.	7	24
+	+	7	24
+
+> ~/result_server/Dockerfile
+	*	1725287508	0
+	"	8	0
+	^	8	0
+	.	7	24
+	+	7	24
+
+> ~/.bashrc
+	*	1725286287	0
+	"	123	19
+	^	123	20
+	.	124	0
+	+	124	0
 
 > ~/web_server/requirements.txt
 	*	1725285512	0
